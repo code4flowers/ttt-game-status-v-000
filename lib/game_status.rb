@@ -4,3 +4,11 @@ def position_taken?(board, index)
 end
 
 # Define your WIN_COMBINATIONS constant
+
+WIN_COMBINAATIONS = [
+  [0,1,2],
+  [3,4,5],
+
+
+  
+]
